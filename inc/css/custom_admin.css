@@ -1,0 +1,41 @@
+
+
+#btn_add_media{
+    margin-top: 10px;
+}
+
+/*
+.sale{
+    text-decoration: line-through;
+}*/
+.data_price .data{
+    width: 85%;
+    display: inline-block;
+}
+.data_price .control{
+    width: 10%;
+    display: inline-block;
+}
+.data_price .form label{
+    width: 12%;
+    display: inline-block;
+}
+.data_price .form{
+    padding-bottom: 10px;
+}
+.data_price .item{
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+}
+.data_price .button{
+    vertical-align: inherit;
+}
+.data_price_html{
+    display: none;
+}
+.ui-datepicker{
+    display: none;
+}
+.format-setting .description {
+    padding: 0 !important;
+}
